@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umansh Agarwal</h1>
-<h3 align="center">A passionate OpenCV and IoT developer</h3>
+<h1 align="center">Hi, I'm Umansh Agarwal! 🤙🏼</h1>
+<h3 align="center">A passionate OpenCV and IoT developer with aload of interest in Machine learning</h3>
 
 
 
