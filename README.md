@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Real-time speech translation on call<br><br>🌱 I’m currently learning OpenCV, NlP and keen on cybersecurity<br><br>👯 I’m looking to collaborate on Arduino, OpenCV and NLP projects<br><br>⚡ Fun fact: I do voice impressions for fun
+🔭 I’m currently working on Real-time speech translation on call<br><br>🌱 I’m currently learning OpenCV, NLP and keen on Cybersecurity<br><br>👯 I’m looking to collaborate on Arduino, OpenCV and NLP projects<br><br>⚡ Fun fact: I do voice impressions for fun
 
 
 ## 🌐 Socials:
